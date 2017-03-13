@@ -1,7 +1,7 @@
 # Buyflix Starter Project for KIEI-924
 
 ## Getting Started
-Live internet address: https://buyflix-final-1155b.firebaseapp.com/
+Live internet address is at: https://buyflix-final-1155b.firebaseapp.com/
 Upon download or clone:
 
 ```
